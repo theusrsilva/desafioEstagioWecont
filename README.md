@@ -6,7 +6,7 @@ Seja bem vindo ao teste para a vaga de Estagiário Back-End.
 
 Preparamos um teste que abordará seus conhecimentos em PHP/Laravel. Você será encaixado na vaga de acordo com seu resultado.
 
-A necessidade é desenvolver o projeto "Gerencia de usuários", onde será possível Adicionar, Editar, Excluir Usuário e Adicionar/Excluir números de telefone do mesmo.
+A necessidade é desenvolver o projeto "Gerenciador de usuários", onde será possível Adicionar, Editar, Excluir Usuário e Adicionar/Excluir números de telefone do mesmo.
 
 # Instruções para entrega
 
@@ -21,7 +21,7 @@ O projeto consiste em um CRUD de usuários e telefone, onde o relacionamento ser
 
 Não será necessário implementar autenticação de usuário.
 
-A projeto deverá ter usuários e telefones. Um usuário poderá ter um ou mais telefones, enquanto um telefone deverá pertencer somente à um usuário.
+O projeto deverá ter usuários e telefones. Um usuário poderá ter um ou mais telefones, enquanto um telefone deverá pertencer somente à um usuário.
 
 Usuários possuem:
 + ID
@@ -29,7 +29,7 @@ Usuários possuem:
 + Email (Email para autenticação)
 + Senha (Senha para autenticação)
  
-Faturas possuem:
+Telefones possuem:
 
 + ID
 + Número (Número de telefone sem caracteres especiais, apenas numeros)
